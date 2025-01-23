@@ -4,8 +4,8 @@
 💻 - Bachelor's student in Software Engineering (UNISA).  
 🌐 - Focused on full-stack and web development projects.  
 📚 - Constantly learning JavaScript, TypeScript, and modern frameworks.  
-🌱 - Passionate about building user-friendly and accessible interfaces.  
-🚀 - Exploring innovative solutions for sustainable and smart cities.  
+🌟 - Enthusiastic about creating impactful software solutions.  
+🎯 - Driven by a mission to solve real-world problems with code.    
 
 
 ##
