@@ -1,8 +1,14 @@
 ## Hello! My name is Jhonatan Hermes 👋
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JhonatanHermes&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JhonatanHermes&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+💻 - Bachelor's student in Software Engineering (UNISA).  
+🌐 - Focused on full-stack and web development projects.  
+📚 - Constantly learning JavaScript, TypeScript, and modern frameworks.  
+🌱 - Passionate about building user-friendly and accessible interfaces.  
+🚀 - Exploring innovative solutions for sustainable and smart cities.  
+
+
+##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanHermes&layout=compact)
 
