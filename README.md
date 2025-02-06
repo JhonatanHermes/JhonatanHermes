@@ -13,8 +13,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanHermes&layout=compact)
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="40" height="40" />
 </div>
