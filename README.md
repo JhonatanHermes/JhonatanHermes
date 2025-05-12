@@ -5,7 +5,7 @@
 🌐 - Focused on full-stack and web development projects.  
 📚 - Constantly learning Java, JavaScript, TypeScript, and modern frameworks.  
 🌟 - Enthusiastic about creating impactful software solutions.  
-🎯 - Driven by a mission to solve real-world problems with code.    
+🎯 - Driven by a mission to solve real-world problems with code.  <!-- git -->  
 
 
 ##
